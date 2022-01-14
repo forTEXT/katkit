@@ -21,10 +21,6 @@ Dabei stehen zwei Aspekte im Vordergrund:
     - An welche Grenzen stoßen die verfügbaren Tools? (Zum Beispiel hinsichtlich der Vergleichsmöglichkeiten zwischen Tagsets oder Kategoriensystemen.) 
     - Welche Features wären wünschenswert oder sogar nötig, um die Konzeption von Kategoriensystemen in den DH zu erleichtern? Welche Manipulationsmöglichkeiten zur Umbenennung und Restrukturierung wären hilfreich?
 
-# Bewerbung
-
-Die Bewerbung für den Workshop sollte 300-500 Wörter umfassen, die Projekterfahrungen auf die oben skizzierten Aspekte beziehen und einen oder zwei Punkte herausstellen, die im Beitrag beleuchtet werden sollen. 
-
 # Ablauf 
 
 Der Workshop findet online an zwei halben Tagen statt: 
@@ -32,6 +28,10 @@ Der Workshop findet online an zwei halben Tagen statt:
 - Dienstag, 22. Februar 2022 von 10 bis 14 Uhr
 
 Die einzelnen Workshop-Slots haben folgenden Umfang: 20 Minuten Vortrag + 20 Minuten Diskussion
+
+# Bewerbung
+
+Die Bewerbung für den Workshop sollte 300-500 Wörter umfassen, die Projekterfahrungen auf die oben skizzierten Aspekte beziehen und einen oder zwei Punkte herausstellen, die im Beitrag beleuchtet werden sollen. 
 
 Bewerbungsschluss ist der ~~15. Januar 2022~~ 21. Januar 2022
 Email an dominik.gerstorfer@tu-darmstadt.de
