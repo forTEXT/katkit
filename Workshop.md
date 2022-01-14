@@ -36,6 +36,6 @@ Die einzelnen Workshop-Slots haben folgenden Umfang: 20 Minuten Vortrag + 20 Min
 Bewerbungsschluss ist der ~~15. Januar 2022~~ 21. Januar 2022
 Email an dominik.gerstorfer@tu-darmstadt.de
 
-—
+- - - 
 
 Dieses Projekt wird gefördert durch das Land Hessen in der Förderlinie “LOEWE-Exploration”.
