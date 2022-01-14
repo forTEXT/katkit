@@ -34,6 +34,7 @@ Die einzelnen Workshop-Slots haben folgenden Umfang: 20 Minuten Vortrag + 20 Min
 Die Bewerbung für den Workshop sollte 300-500 Wörter umfassen, die Projekterfahrungen auf die oben skizzierten Aspekte beziehen und einen oder zwei Punkte herausstellen, die im Beitrag beleuchtet werden sollen. 
 
 Bewerbungsschluss ist der ~~15. Januar 2022~~ 21. Januar 2022
+
 Email an dominik.gerstorfer@tu-darmstadt.de
 
 - - - 
