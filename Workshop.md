@@ -28,8 +28,7 @@ Die Bewerbung für den Workshop sollte 300-500 Wörter umfassen, die Projekterfa
 # Ablauf 
 
 Der Workshop findet online an zwei halben Tagen statt: 
-- Montag, 21. Feburar 2022 von 14 bis 18 Uhr, gefolgt von einem Abendvortragvortrag von Prof. Dr. Angelika Zirker (Tübingen) mit dem Titel: 
-    > “‘some double dealing’ – Ambiguität, Unterspezifiziertheit und Vagheit als Analysekategorien der (digitalen) Literaturwissenschaft” 
+- Montag, 21. Feburar 2022 von 14 bis 18 Uhr, gefolgt von einem Abendvortragvortrag von Prof. Dr. Angelika Zirker (Tübingen) mit dem Titel: “‘some double dealing’ – Ambiguität, Unterspezifiziertheit und Vagheit als Analysekategorien der (digitalen) Literaturwissenschaft” 
 - Dienstag, 22. Februar 2022 von 10 bis 14 Uhr
 
 Die einzelnen Workshop-Slots haben folgenden Umfang: 20 Minuten Vortrag + 20 Minuten Diskussion
