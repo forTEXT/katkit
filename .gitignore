@@ -2,6 +2,8 @@
 !.vscode/launch.json
 !.vscode/settings.json
 !.vscode/tasks.json
+**/public/
+**/resources/_gen/
 .AppleDB
 .AppleDesktop
 .AppleDouble
