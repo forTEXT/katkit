@@ -5,7 +5,7 @@ name: GitHub Pages
 on:
   push:
     branches:
-      - gh-pages # change to the branch name for your project
+      - main # change to the branch name for your project
 
 jobs:
   build-deploy:
