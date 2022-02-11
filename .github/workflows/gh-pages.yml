@@ -35,3 +35,5 @@ jobs:
           publish_branch: gh-pages
           publish_dir: ./public
           keep_files: true
+          tag_name: ${{ steps.prepare_tag.outputs.deploy_tag_name }}
+          tag_message: 'Deployment ${{ steps.prepare_tag.outputs.tag_name }}'
