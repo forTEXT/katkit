@@ -21,8 +21,6 @@
 .vscode/*
 /.hugo_build.lock
 /assets/jsconfig.json
-/public/
-/public/
 /resources/_gen/
 hugo.darwin
 hugo.exe
