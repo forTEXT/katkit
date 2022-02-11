@@ -5,7 +5,7 @@ name: GitHub Pages
 on:
   push:
     branches:
-      - main # change to the branch name for your project
+      - gh-pages # change to the branch name for your project
 
 jobs:
   build-deploy:
@@ -32,5 +32,3 @@ jobs:
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          keep_files: true
