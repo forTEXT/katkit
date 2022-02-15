@@ -3,8 +3,6 @@ title: "Angelika Zirker: “some double dealing” – Ambiguität, Unterspezifi
 summary: "Keynote, 21. Februar 2022, 19:00-20:30"
 date: 2022-02-15
 showTableOfContents: false
-resources:
-- keynote.ics
 ---
 
 
