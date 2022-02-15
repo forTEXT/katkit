@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20220215T131157Z
+DTSTART;TZID=Europe/Berlin:20220221T190000
+DTEND;TZID=Europe/Berlin:20220221T203000
+SUMMARY:KatKit Workshop: Keynote Angelika Zirker
+UID:20220215T131157Z-87802572216@fe80:0:0:0:8d:92ff:fe4d:be33ens5
+TZID:Europe/Berlin
+DESCRIPTION:Dominik Gerstorfer lädt Sie zu einem geplanten Zoom-Meeting e
+ in.\n\nZoom-Meeting beitreten\nhttps://tu-darmstadt.zoom.us/j/8780257221
+ 6?pwd=NXE4RFhvek5jSHovQ0ZmZnlUS0tyQT09\n\nMeeting-ID: 878 0257 2216\nKen
+ ncode: KatKit\nSchnelleinwahl mobil\n+13462487799\,\,87802572216#\,\,\,\
+ ,*715588# Vereinigte Staaten (Houston)\n+14702509358\,\,87802572216#\,\,
+ \,\,*715588# Vereinigte Staaten (Atlanta)\n\nEinwahl nach aktuellem Stan
+ dort\n        +1 346 248 7799 Vereinigte Staaten (Houston)\n        +1 4
+ 70 250 9358 Vereinigte Staaten (Atlanta)\n        +1 470 381 2552 Verein
+ igte Staaten (Atlanta)\n        +1 602 753 0140 Vereinigte Staaten (Phoe
+ nix)\n        +1 646 518 9805 Vereinigte Staaten (New York)\n        +1 
+ 651 372 8299 Vereinigte Staaten (Minnesota)\n        +1 669 219 2599 Ver
+ einigte Staaten (San Jose)\n        +1 669 900 6833 Vereinigte Staaten (
+ San Jose)\n        +1 720 928 9299 Vereinigte Staaten (Denver)\n        
+ +1 786 635 1003 Vereinigte Staaten (Miami)\n        +1 929 205 6099 Vere
+ inigte Staaten (New York)\n        +1 971 247 1195 Vereinigte Staaten (P
+ ortland)\n        +1 206 337 9723 Vereinigte Staaten (Seattle)\n        
+ +1 213 338 8477 Vereinigte Staaten (Los Angeles)\n        +1 253 215 878
+ 2 Vereinigte Staaten (Tacoma)\n        +1 267 831 0333 Vereinigte Staate
+ n (Philadelphia)\n        +1 301 715 8592 Vereinigte Staaten (Washington
+  DC)\n        +1 312 626 6799 Vereinigte Staaten (Chicago)\nMeeting-ID: 
+ 878 0257 2216\nKenncode: 715588\n
+LOCATION:https://tu-darmstadt.zoom.us/j/87802572216?pwd=NXE4RFhvek5jSHovQ
+ 0ZmZnlUS0tyQT09
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
