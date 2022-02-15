@@ -23,9 +23,9 @@ Der Vortrag ist öffentlich.
  Termin speichern (.ics)
 {{< /button >}}
 
----
 
-Angelika Zirker ist apl-Professorin für Literatur- und Kulturwissenschaft am Englischen Seminar der Eberhard Karls Universität Tübingen. Sie promovierte zu Lewis Carrolls Alice-Büchern und schloss 2015 einen Habilitation zur Lyrik von William Shakespeare und John Donne ab. Seit mehr als zehn Jahren befasst sie sich inzwischen mit Methoden und Fragestellungen der DH. So leitet sie gemeinsam mit Matthias Bauer in Tübingen ein peer-learning- und Forschungsprojekt zur erklärenden Annotation in den DH (TEASys – The Tübingen Explanatory Annotations System), befasst sich kritisch mit stilometrischen Verfahren zur Autorschaftsattribution im frühneuzeitlichen Drama, insbesondere Shakespeares, und leitet gemeinsam mit Nils Reiter das DH-Projekt zur „Systematischen Annotation und quantitativen Analyse“ ästhetischer Reflexionsfiguren im SFB 1391 Andere Ästhetik.
 
----
+> Angelika Zirker ist apl-Professorin für Literatur- und Kulturwissenschaft am Englischen Seminar der Eberhard Karls Universität Tübingen. Sie promovierte zu Lewis Carrolls Alice-Büchern und schloss 2015 einen Habilitation zur Lyrik von William Shakespeare und John Donne ab. Seit mehr als zehn Jahren befasst sie sich inzwischen mit Methoden und Fragestellungen der DH. So leitet sie gemeinsam mit Matthias Bauer in Tübingen ein peer-learning- und Forschungsprojekt zur erklärenden Annotation in den DH (TEASys – The Tübingen Explanatory Annotations System), befasst sich kritisch mit stilometrischen Verfahren zur Autorschaftsattribution im frühneuzeitlichen Drama, insbesondere Shakespeares, und leitet gemeinsam mit Nils Reiter das DH-Projekt zur „Systematischen Annotation und quantitativen Analyse“ ästhetischer Reflexionsfiguren im SFB 1391 Andere Ästhetik.
+
+
 Der Vortrag wird aufgezeichnet. 
