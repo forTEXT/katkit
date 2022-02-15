@@ -1,12 +1,13 @@
 ---
-title: "Workshop 21.-22. Februar 2022: Softwaregestützte Kategorienentwicklung in Praxis und Forschung"
+title: "Workshop: Softwaregestützte Kategorienentwicklung in Praxis und Forschung"
+summary: "Programm"
 date: 2022-02-10
 showTableOfContents: true
 ---
 
 {{< lead >}}
 Programm  
-Workshop 21.-22. Februar 2022  
+Online-Workshop am 21.-22. Februar 2022  
 {{< /lead >}}
 
 ## Montag, 21. Februar 2022

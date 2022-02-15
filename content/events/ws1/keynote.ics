@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20220215T110349Z
+DTSTART;TZID=Europe/Berlin:20220222T090000
+DTEND;TZID=Europe/Berlin:20220222T130000
+SUMMARY:KatKit Workshop
+UID:20220215T110349Z-88449746476@fe80:0:0:0:c97:39ff:fe1d:bf6fens5
+TZID:Europe/Berlin
+DESCRIPTION:Dominik Gerstorfer lädt Sie zu einem geplanten Zoom-Meeting e
+ in.\n\nZoom-Meeting beitreten\nhttps://tu-darmstadt.zoom.us/j/8844974647
+ 6?pwd=RnlWOW5SMnM1dStnVUFzZWgvTGFSQT09\n\nMeeting-ID: 884 4974 6476\nKen
+ ncode: KatKit\nSchnelleinwahl mobil\n+17209289299\,\,88449746476#\,\,\,\
+ ,*998473# Vereinigte Staaten (Denver)\n+17866351003\,\,88449746476#\,\,\
+ ,\,*998473# Vereinigte Staaten (Miami)\n\nEinwahl nach aktuellem Standor
+ t\n        +1 720 928 9299 Vereinigte Staaten (Denver)\n        +1 786 6
+ 35 1003 Vereinigte Staaten (Miami)\n        +1 929 205 6099 Vereinigte S
+ taaten (New York)\n        +1 971 247 1195 Vereinigte Staaten (Portland)
+ \n        +1 206 337 9723 Vereinigte Staaten (Seattle)\n        +1 213 3
+ 38 8477 Vereinigte Staaten (Los Angeles)\n        +1 253 215 8782 Verein
+ igte Staaten (Tacoma)\n        +1 267 831 0333 Vereinigte Staaten (Phila
+ delphia)\n        +1 301 715 8592 Vereinigte Staaten (Washington DC)\n  
+       +1 312 626 6799 Vereinigte Staaten (Chicago)\n        +1 346 248 7
+ 799 Vereinigte Staaten (Houston)\n        +1 470 250 9358 Vereinigte Sta
+ aten (Atlanta)\n        +1 470 381 2552 Vereinigte Staaten (Atlanta)\n  
+       +1 602 753 0140 Vereinigte Staaten (Phoenix)\n        +1 646 518 9
+ 805 Vereinigte Staaten (New York)\n        +1 651 372 8299 Vereinigte St
+ aaten (Minnesota)\n        +1 669 219 2599 Vereinigte Staaten (San Jose)
+ \n        +1 669 900 6833 Vereinigte Staaten (San Jose)\nMeeting-ID: 884
+  4974 6476\nKenncode: 998473\n
+LOCATION:https://tu-darmstadt.zoom.us/j/88449746476?pwd=RnlWOW5SMnM1dStnV
+ UFzZWgvTGFSQT09
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

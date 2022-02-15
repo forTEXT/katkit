@@ -5,7 +5,7 @@ section: "CfP"
 ---
 {{< lead >}}
 Call for Papers  
-Workshop 21.-22. Februar 2022  
+Online-Workshop am 21.-22. Februar 2022  
 {{< /lead >}}
 
 # Softwaregestützte Kategorienentwicklung in Praxis und Forschung
