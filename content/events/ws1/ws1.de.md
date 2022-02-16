@@ -24,7 +24,7 @@ Online-Workshop am 21.-22. Februar 2022
 | 15:50&nbsp;-&nbsp;16:30 | Wagner | Taxonomie rechtlicher Regelungsmaterien zwischen Generation Y und Web3.0 |
 | 16:30&nbsp;-&nbsp;17:10 | Horstmann/Normann | Taxonomiebasierte Annotation und Semantic Web |
 ||||
-| 19:00&nbsp;-&nbsp;20:30 |  Angelika Zirker | [**Keynote:** "some double dealing" – Ambiguität, Unterspezifiziertheit und Vagheit als Analysekategorien der (digitalen) Literaturwissenschaft]({{< relref path="keynote.md" lang="de" >}}) |
+| 19:00&nbsp;-&nbsp;20:00 |  Angelika Zirker | [**Keynote:** "some double dealing" – Ambiguität, Unterspezifiziertheit und Vagheit als Analysekategorien der (digitalen) Literaturwissenschaft]({{< relref path="keynote.md" lang="de" >}}) |
 
 ## Dienstag, 22. Februar 2022
 

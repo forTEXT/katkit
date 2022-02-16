@@ -1,6 +1,6 @@
 ---
 title: "Angelika Zirker: “some double dealing” – Ambiguität, Unterspezifiziertheit und Vagheit als Analysekategorien der (digitalen) Literaturwissenschaft" 
-summary: "Keynote, 21. Februar 2022, 19:00-20:30"
+summary: "Keynote, 21. Februar 2022, 19:00-20:00"
 date: 2022-02-15
 showTableOfContents: false
 ---
@@ -8,7 +8,7 @@ showTableOfContents: false
 
 {{< lead >}}
 Keynote  
-Montag, 21. Februar 2022, 19:00-20:30 
+Montag, 21. Februar 2022, 19:00-20:00 
 {{< /lead >}}
 ## Angelika Zirker 
 ### “some double dealing” – Ambiguität, Unterspezifiziertheit und Vagheit als Analysekategorien der (digitalen) Literaturwissenschaft
