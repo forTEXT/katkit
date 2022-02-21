@@ -19,7 +19,7 @@ Online-Workshop am 21.-22. Februar 2022
 | 13:30&nbsp;-&nbsp;14:00 | Gerstorfer |	Eine Taxonomie von Taxonomien |
 ||||
 | 14:15-&nbsp;14:55 | Doat | Skizze eines mathematischen Topos der Fiktion |
-| 14:55&nbsp;-&nbsp;15:35 | Barabucci | Die Klassifikation des nicht Klassifiziertes: Eine Untersuchung der Residualkategorien in ICD-10 |
+| 14:55&nbsp;-&nbsp;15:35 | Barabucci | Die Klassifikation des nicht Klassifizierten: Eine Untersuchung der Residualkategorien in ICD-10 |
 ||||
 | 15:50&nbsp;-&nbsp;16:30 | Wagner | Taxonomie rechtlicher Regelungsmaterien zwischen Generation Y und Web3.0 |
 | 16:30&nbsp;-&nbsp;17:10 | Horstmann/Normann | Taxonomiebasierte Annotation und Semantic Web |
