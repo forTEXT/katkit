@@ -34,8 +34,8 @@ Online-Workshop am 21.-22. Februar 2022
 | 9:55&nbsp;-&nbsp;10:35	| Pfeiffer | NCAC National Digital Archive of The Gambia |
 ||||
 | 10:50&nbsp;-&nbsp;11:20 | Kröncke | Entwicklung, Anwendung und experimentelle Reflexion von Annotationskategorien im Projekt The Beginnings of Modern Poetry |
-| 11:20&nbsp;-&nbsp;12:30	| Jurczyk | Annotation und Visualisierung des Artikel-Corpus der religionswissenschaftlichen Open Access Zeitschrift Entangled Religions: Vorhaben, Durchführung und Probleme |
-| 12:30&nbsp;-&nbsp;12:45	| | Abschlussrunde |
+| 11:20&nbsp;-&nbsp;12:00	| Jurczyk | Annotation und Visualisierung des Artikel-Corpus der religionswissenschaftlichen Open Access Zeitschrift Entangled Religions: Vorhaben, Durchführung und Probleme |
+| 12:00&nbsp;-&nbsp;12:15	| | Abschlussrunde |
 
 ## Abstracts
 
