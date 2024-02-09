@@ -3,3 +3,5 @@ github.com/hugo-mods/icons v0.0.0-20211204094455-ce8763589b4a h1:ZT9rx0pweU4vmYI
 github.com/hugo-mods/icons v0.0.0-20211204094455-ce8763589b4a/go.mod h1:sPodUyqumOYz75PKIwmqOYZXLIcLAujn7V9+1Hk4VW8=
 github.com/jpanther/congo/v2 v2.0.4 h1:gOP0jIhfj37CV5fVh2GCR9ruIqxQXEAHxE3c4ZFLZv4=
 github.com/jpanther/congo/v2 v2.0.4/go.mod h1:1S7DRoO1ZYS4YUdFd1LjTkdyjQwsjFWd8TqSfz3Jd+M=
+github.com/jpanther/congo/v2 v2.8.0 h1:/XkKK/ywD2SgSwjeYxwx7lLXIM7tt9wS5MvUaAnv9u0=
+github.com/jpanther/congo/v2 v2.8.0/go.mod h1:1S7DRoO1ZYS4YUdFd1LjTkdyjQwsjFWd8TqSfz3Jd+M=
