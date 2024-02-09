@@ -40,5 +40,5 @@ Dieses Projekt wird gefördert durch das Land Hessen in der Förderlinie “LOEW
 
 [Dominik Gerstorfer](mailto:dominik.gerstorfer@tu-darmstadt.de)  
 TU Darmstadt   
-Landwehrstraße 50A (Gebäude S4|23)  
-64293 Darmstadt  
+Residenzschloss 1
+64283 Darmstadt  
