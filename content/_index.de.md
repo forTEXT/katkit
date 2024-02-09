@@ -16,6 +16,6 @@ __/\\\________/\\\_______________________________/\\\________/\\\_______________
                                   Ein proof of concept und ein Experiment
 
                                   forTEXT.lab / Dominik Gerstorfer
-                                  2021-22
+                                  2021-23
 ```
 
