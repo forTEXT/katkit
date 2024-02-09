@@ -35,11 +35,11 @@ KatKit will open up the possibility of implementing a number of analyses in the 
 
 ## Funding
 
-This project is funded by the state of Hesse in the funding line "LOEWE-Exploration". 
+This project is funded by the state of Hesse in the funding line "LOEWE-Exploration" from 12/2021 to 11/2023. 
 
 ## Contact
 
 [Dominik Gerstorfer](mailto:dominik.gerstorfer@tu-darmstadt.de)  
 TU Darmstadt  
-Landwehrstraße 50A (Gebäude S4|23)  
-64293 Darmstadt  
+Residenzschloss 1
+64283 Darmstadt   
