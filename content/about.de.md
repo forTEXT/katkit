@@ -33,7 +33,7 @@ KatKit soll die Möglichkeit eröffnen, eine Reihe von Analysen in den Digital H
 
 ## Förderung
 
-Dieses Projekt wird gefördert durch das Land Hessen in der Förderlinie “LOEWE-Exploration”.
+Dieses Projekt wird von 12/2021 bis 11/2023 gefördert durch das Land Hessen in der Förderlinie “LOEWE-Exploration”.
 
 ## Kontakt
 
